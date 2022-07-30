@@ -1,0 +1,106 @@
+{
+	"charOffset": [
+		0,
+		300
+	],
+	"singDur": 4,
+	"spritesheet": "miles",
+	"anims": [
+		{
+			"offsets": [
+				-5,
+				0
+			],
+			"fps": 24,
+			"prefix": "colas idle",
+			"name": "idle",
+			"looped": false
+		},
+		{
+			"offsets": [
+				-6,
+				0
+			],
+			"fps": 24,
+			"prefix": "colas up0",
+			"name": "singUP",
+			"looped": false
+		},
+		{
+			"offsets": [
+				-6,
+				1
+			],
+			"fps": 24,
+			"prefix": "colas left0",
+			"name": "singRIGHT",
+			"looped": false
+		},
+		{
+			"offsets": [
+				-5,
+				0
+			],
+			"fps": 24,
+			"prefix": "colas right0",
+			"name": "singLEFT",
+			"looped": false
+		},
+		{
+			"offsets": [
+				-5,
+				0
+			],
+			"fps": 24,
+			"prefix": "colas down0",
+			"name": "singDOWN",
+			"looped": false
+		},
+		{
+			"offsets": [
+				-5,
+				0
+			],
+			"fps": 24,
+			"prefix": "colas up miss",
+			"name": "singUPmiss",
+			"looped": false
+		},
+		{
+			"offsets": [
+				-5,
+				0
+			],
+			"fps": 24,
+			"prefix": "colas right miss",
+			"name": "singLEFTmiss",
+			"looped": false
+		},
+		{
+			"offsets": [
+				-5,
+				-1
+			],
+			"fps": 24,
+			"prefix": "colas left miss",
+			"name": "singRIGTmiss",
+			"looped": false
+		},
+		{
+			"offsets": [
+				-6,
+				0
+			],
+			"fps": 24,
+			"prefix": "colas down miss",
+			"name": "singDOWNmiss",
+			"looped": false
+		}
+	],
+	"flipX": true,
+	"antialiasing": false,
+	"iconName": "bf",
+	"beatDancer": false,
+	"healthColor": "0xFF31B0D1",
+	"format": "andromeda"
+}

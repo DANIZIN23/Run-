@@ -1,0 +1,85 @@
+{
+	"iconName": "dad",
+	"beatDancer": false,
+	"charOffset": [
+		0,
+		0
+	],
+	"anims": [
+		{
+			"offsets": [
+				-5,
+				0
+			],
+			"fps": 8,
+			"prefix": "sonicexe idle",
+			"name": "idle",
+			"looped": false
+		},
+		{
+			"offsets": [
+				-5,
+				2
+			],
+			"fps": 20,
+			"prefix": "sonicexe up",
+			"name": "singUP",
+			"looped": false
+		},
+		{
+			"offsets": [
+				-11,
+				1
+			],
+			"fps": 20,
+			"prefix": "sonicexe right",
+			"name": "singLEFT",
+			"looped": false
+		},
+		{
+			"offsets": [
+				-6,
+				-7
+			],
+			"fps": 20,
+			"prefix": "sonicexe left",
+			"name": "singRIGHT",
+			"looped": false
+		},
+		{
+			"offsets": [
+				-5,
+				-1
+			],
+			"fps": 20,
+			"prefix": "sonicexe down",
+			"name": "singDOWN",
+			"looped": false
+		},
+		{
+			"offsets": [
+				-6,
+				-5
+			],
+			"fps": 24,
+			"prefix": "sonicexe xd",
+			"name": "XD",
+			"looped": false
+		},
+		{
+			"offsets": [
+				-4,
+				0
+			],
+			"fps": 8,
+			"prefix": "sonicexe talk",
+			"name": "tooSlow",
+			"looped": false
+		}
+	],
+	"spritesheet": "sonic",
+	"singDur": 4,
+	"antialiasing": false,
+	"flipX": false,
+	"healthColor": "0xFFAF66CE"
+}
